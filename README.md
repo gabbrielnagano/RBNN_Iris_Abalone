@@ -166,6 +166,6 @@ O R² em torno de 0,50 é compatível com a literatura para esta base — a idad
 
 ## Autores
 
-Gabbriel Nagano· Lucas Cordeiro Raw
+Gabbriel Nagano · Lucas Cordeiro Raw
 
 Ciência de Dados e Inteligência Artificial — PUC-Campinas
